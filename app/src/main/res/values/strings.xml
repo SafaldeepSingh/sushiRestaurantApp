@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">PracticalExam</string>
+    <string name="menu" translatable="false">Menu</string>
+    <string name="checkout">checkout</string>
+    <string name="check_out">Check Out</string>
+    <string name="purchase">purchase</string>
+    <string name="total">TOTAL:</string>
+</resources>

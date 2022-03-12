@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="checkout">vérifier</string>
+    <string name="check_out">vérifier</string>
+    <string name="purchase">achat</string>
+    <string name="total">totale</string>
+</resources>
